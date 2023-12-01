@@ -17,5 +17,5 @@
 # A) Pré-ordem: 60    Em ordem: 23       Pós-ordem: 32
 
 # Exercício 5
-# A)      B) 20 e 10     C) 60 e 50    D) Sim             E) 59
+# A) Ela está balanceada    B) 20 e 10     C) 60 e 50    D) Sim             E) 59
 # F) 55   G) 15 
